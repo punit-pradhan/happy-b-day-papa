@@ -73,6 +73,7 @@ img {
   max-height: 200px;
   object-fit: cover;
   width: 100%;
+  object-position: 0% 35%;
   user-select: none;
 }
 
